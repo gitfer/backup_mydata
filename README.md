@@ -1,5 +1,4 @@
 # backup_mydata
-===============
 
 Backs up my data on AWS S3
 
@@ -16,7 +15,7 @@ Backs up my data on AWS S3
 	"bucketName": "<bucketName>"
 }
   ```
-2. In order to show the available options, run:
+2. In order to run backup on folder "my_data":
 
 	```sh
   	node.exe index.js -u my_data
