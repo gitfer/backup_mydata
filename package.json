@@ -1,0 +1,19 @@
+{
+  "name": "backup_mydata",
+  "version": "1.0.0",
+  "description": "Backs up my data on AWS S3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitfer/backup_mydata.git"
+  },
+  "author": "Federico Rota",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gitfer/backup_mydata/issues"
+  },
+  "homepage": "https://github.com/gitfer/backup_mydata#readme"
+}
